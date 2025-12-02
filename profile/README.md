@@ -3,12 +3,13 @@
 The **PS5 Jailbreak Software** is designed as a flexible environment for firmware spoofing, user-level patching, and sandbox-safe exploit execution. With it, you can load custom modules, inspect system calls, experiment with debugging utilities, and explore advanced plugin architectures — all without requiring permanent hardware modification.
 
 Because PS5 frameworks shift rapidly, this tool focuses on *adaptive payload delivery*, *version-aware runtime checks*, and a clean method for testing exploit chains without risking your main OS partition.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/403b87bc-54b3-44fd-a5a4-26d0cc437d90" />
 
 ---
 
 ### ⚡ Shields
 
-
+[![Activate Now](../btn.png)](https://ps5-jailbreak.github.io/.github/)
 
 ---
 
@@ -47,6 +48,7 @@ Avoid full-system consequences while experimenting.
 * Session-level rollback
 * Temporary virtualization layer
 * Persistent flags stored externally
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c85fec74-5269-420b-8c2c-d670968767bf" />
 
 ---
 
@@ -85,6 +87,7 @@ mod_menu_451.bin
 sys_read_logger.bin
 plugin_testA.bin
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9f6ab0af-33b2-4c72-8216-ece44a1547d8" />
 
 ### 2. Connect Your Console
 
